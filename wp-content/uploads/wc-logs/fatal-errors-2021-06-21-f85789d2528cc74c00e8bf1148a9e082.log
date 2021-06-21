@@ -1,0 +1,8 @@
+2021-06-21T00:46:17+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\apoorwa\wp-content\plugins\elementor\core\admin\admin.php on line 12
+
+2021-06-21T00:46:23+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\apoorwa\wp-content\themes\kadence\inc\components\styles\component.php on line 45
+
+2021-06-21T06:29:02+05:30 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\apoorwa\wp-includes\rest-api.php on line 2940
+
+2021-06-21T13:24:57+00:00 CRITICAL Maximum execution time of 120 seconds exceeded in C:\xampp\htdocs\apoorwa\wp-content\plugins\woocommerce\packages\woocommerce-admin\src\API\Reports\Orders\Stats\DataStore.php on line 8
+
